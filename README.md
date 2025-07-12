@@ -14,4 +14,5 @@ These flags only represent three parties! It is not an accurate representation o
 
 ## TODO
 
-Make all flags with all other partys represented.
+- [ ] Convert to `.png` as release.
+- [ ] Make all flags with all other partys represented.
